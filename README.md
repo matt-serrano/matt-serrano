@@ -1,14 +1,13 @@
 # Matthew Serrano
 
-💻 Computer Science student at Ontario Tech University with a focus on full stack development and cybersecurity  
-🏛️ Currently working as an IT Systems Analyst with the Ontario Public Service  
+Computer Science student at Ontario Tech University with a focus on software development. Currently working as an IT Systems Analyst & Developer with the Ontario Public Service / Ontario Government
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🚀 Building real-world applications with modern web technologies  
-- 🔐 Strong interest in secure software and system design  
+- 🔐 Strong interest in software and system design  
 - 🤝 Experience working in team-based, production-level environments  
 - 🥋 Background in competitive athletics (Judo & Brazilian Jiu-Jitsu)  
 
