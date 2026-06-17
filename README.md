@@ -1,38 +1,42 @@
 # Matthew Serrano
 
-💻 Computer Science student at Ontario Tech University  
-🏛️ IT Systems Analyst & Developer — Ontario Public Service  
+Computer Science Student at Ontario Tech University. IT Systems Analyst at Ontario Public Service.
 
----
+## Experience
 
-## 👨‍💻 About Me
-- 🚀 Building real-world full stack applications  
-- 🔐 Interested in software and system design  
-- 🤝 Experience in production-level team environments  
-- 🥋 Competitive Judo & Brazilian Jiu-Jitsu background  
+### Ontario Public Service — IT Systems Analyst (Co-op)
 
----
+Working within GovTechON to support digital services and enterprise applications across the Ontario Public Service. Supporting the Natural Resources Information Portal (NRIP) Permitting Remediation Project.
 
-## 💼 Experience
+### Purchs.io — Software Engineer
 
-**IT Systems Analyst | Developer Co-op — Ontario Public Service**  
-- 🏢 Supporting digital solutions within GovTechON  
-- 🔍 Exposure to enterprise systems, security, and infrastructure  
+Developed frontend and backend features for a production e-commerce platform, collaborating with designers and senior developers to deliver user-facing functionality and supported system integrations.
 
-**Software Engineer — Purchs.io**  
-- 🛒 Worked on a live retail/wholesale platform  
-- 🎨 Built Next.js frontend from Figma  
-- ⚙️ Developed APIs and integrations  
+## Tech Stack
 
----
+### Languages
 
-## 🛠️ Tech Stack
-JavaScript, TypeScript, Python, C++  
-React, Next.js, Node.js, FastAPI  
-Git, Linux, Firebase, REST APIs  
+* Python
+* JavaScript
+* TypeScript
+* Java
+* C++
 
----
+### Frameworks & Technologies
 
-## 🌐 Connect
-🔗 LinkedIn: https://www.linkedin.com/in/matthew-serrano-13a11b312/  
-🌍 Portfolio: https://www.mattsrano.com  
+* React
+* Next.js
+* Node.js
+* FastAPI
+* Firebase
+
+### Tools
+
+* Git
+* Linux
+* REST APIs
+
+## Connect
+
+* LinkedIn: [www.linkedin.com/in/matthew-serrano-13a11b312](http://www.linkedin.com/in/matthew-serrano-13a11b312)
+* Portfolio: [www.mattsrano.com](http://www.mattsrano.com)
