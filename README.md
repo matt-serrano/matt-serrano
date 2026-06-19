@@ -1,12 +1,12 @@
 # Matthew Serrano
 
-Computer Science Student at Ontario Tech University. IT Systems Analyst at Government of Ontario / Ontario Public Service (MPBSDP).
+Computer Science Student at Ontario Tech University. IT Systems Analyst at Government of Ontario, Ministry of Public and Business Service Delivery and Procurement.
 
 ## Experience
 
-### Ontario Public Service — IT Systems Analyst (Co-op)
+### Government of Ontario — IT Systems Analyst (Co-op)
 
-Working within GovTechON to support digital services and enterprise applications across the Ontario Public Service. Supporting the Natural Resources Information Portal (NRIP) Permitting Remediation Project.
+Working within GovTechON to support digital services and enterprise applications across the Ontario Government. Supporting the Natural Resources Information Portal (NRIP) Permitting Remediation Project.
 
 ### Purchs.io — Software Engineer
 
