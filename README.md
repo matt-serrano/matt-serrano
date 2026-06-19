@@ -1,6 +1,6 @@
 # Matthew Serrano
 
-Computer Science Student at Ontario Tech University. IT Systems Analyst at Ontario Public Service.
+Computer Science Student at Ontario Tech University. IT Systems Analyst at Government of Ontario / Ontario Public Service (MPBSDP).
 
 ## Experience
 
